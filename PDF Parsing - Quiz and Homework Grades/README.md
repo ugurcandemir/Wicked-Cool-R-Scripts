@@ -1,0 +1,3 @@
+# PDF Parsing - Quiz and Homework Grades
+
+I am absolutely obsessed with turning everything into data. PDF files are no exception. Nowadays data come in all shapes and sizes and a competent data professional should be able to convert data in various forms into data in a usable form. Here one of my professors sent out two different PDF files that contain grades of students. These two scripts take those PDF files  , convert them into tabular(rectangular) data form  , analyze them and output them as a CSV file.
